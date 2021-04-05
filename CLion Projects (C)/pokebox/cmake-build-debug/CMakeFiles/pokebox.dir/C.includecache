@@ -1,0 +1,94 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/Moves.h
+stdio.h
+-
+PokeType.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/PokeType.h
+Pokemon.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/Pokemon.h
+Util.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/Util.h
+
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/PokeBox.h
+Pokemon.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/Pokemon.h
+Util.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/Util.h
+
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/PokeDex.h
+Pokemon.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/Pokemon.h
+
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/PokeType.h
+
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/Pokemon.h
+stdio.h
+-
+PokeType.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/PokeType.h
+Moves.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/Moves.h
+SaveManager.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/SaveManager.h
+SpriteManager.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/SpriteManager.h
+
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/SaveManager.h
+Pokemon.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/Pokemon.h
+
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/SpriteManager.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+errno.h
+-
+Util.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/Util.h
+
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/Util.h
+stdlib.h
+-
+Pokemon.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/Pokemon.h
+
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+Util.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/Util.h
+PokeType.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/PokeType.h
+Pokemon.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/Pokemon.h
+PokeBox.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/PokeBox.h
+PokeDex.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/PokeDex.h
+SaveManager.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/SaveManager.h
+Moves.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/Moves.h
+utils.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/utils.h
+
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/pokebox/utils.h
+stdio.h
+-
+stdlib.h
+-
+

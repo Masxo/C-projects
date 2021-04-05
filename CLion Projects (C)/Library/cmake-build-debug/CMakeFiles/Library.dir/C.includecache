@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/dataStructures.c
+dataStructures.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/dataStructures.h
+stdlib.h
+-
+string.h
+-
+
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/dataStructures.h
+utils.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/utils.h
+
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/main.c
+dataStructures.h
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/dataStructures.h
+
+/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/utils.h
+stdio.h
+-
+stdlib.h
+-
+

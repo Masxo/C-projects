@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Spotify.dir/main.c.o CMakeFiles/Spotify.dir/utils.c.o  -o Spotify 
