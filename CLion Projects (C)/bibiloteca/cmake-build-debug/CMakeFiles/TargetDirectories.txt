@@ -1,3 +1,0 @@
-C:/Users/maxse/CLionProjects/bibiloteca/cmake-build-debug/CMakeFiles/bibiloteca.dir
-C:/Users/maxse/CLionProjects/bibiloteca/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/maxse/CLionProjects/bibiloteca/cmake-build-debug/CMakeFiles/rebuild_cache.dir

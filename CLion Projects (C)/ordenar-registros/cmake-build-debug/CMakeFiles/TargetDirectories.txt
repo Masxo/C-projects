@@ -1,3 +1,0 @@
-/mnt/c/Users/maxse/CLionProjects/ordenar-registros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/maxse/CLionProjects/ordenar-registros/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/maxse/CLionProjects/ordenar-registros/cmake-build-debug/CMakeFiles/ordenar_registros.dir

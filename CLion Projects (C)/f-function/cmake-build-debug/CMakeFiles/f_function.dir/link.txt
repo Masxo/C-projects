@@ -1,3 +1,0 @@
-C:\Users\maxse\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.7846.88\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\f_function.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\f_function.dir/objects.a @CMakeFiles\f_function.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\f_function.dir/objects.a -Wl,--no-whole-archive  -o f_function.exe -Wl,--out-implib,libf_function.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\f_function.dir\linklibs.rsp

@@ -1,4 +1,0 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/maxse/CLionProjects/dictionary
--- Configuring done
--- Generating done
--- Build files have been written to: /mnt/c/Users/maxse/CLionProjects/dictionary/cmake-build-debug

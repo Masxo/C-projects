@@ -1,3 +1,0 @@
-C:/Users/maxse/CLionProjects/f-function/cmake-build-debug/CMakeFiles/f_function.dir
-C:/Users/maxse/CLionProjects/f-function/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/maxse/CLionProjects/f-function/cmake-build-debug/CMakeFiles/rebuild_cache.dir

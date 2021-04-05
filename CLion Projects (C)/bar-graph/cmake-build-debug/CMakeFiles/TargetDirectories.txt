@@ -1,3 +1,0 @@
-C:/Users/maxse/CLionProjects/bar-graph/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/maxse/CLionProjects/bar-graph/cmake-build-debug/CMakeFiles/bar_graph.dir
-C:/Users/maxse/CLionProjects/bar-graph/cmake-build-debug/CMakeFiles/edit_cache.dir

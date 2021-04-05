@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -rdynamic CMakeFiles/Library.dir/main.c.o CMakeFiles/Library.dir/utils.c.o CMakeFiles/Library.dir/dataStructures.c.o  -o Library 

@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -rdynamic CMakeFiles/sgdb.dir/main.c.o  -o sgdb 

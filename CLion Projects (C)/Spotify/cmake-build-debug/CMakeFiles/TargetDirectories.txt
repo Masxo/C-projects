@@ -1,3 +1,0 @@
-/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Spotify/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Spotify/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Spotify/cmake-build-debug/CMakeFiles/Spotify.dir
