@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/ordenar_registros.dir/main.c.o  -o ordenar_registros 

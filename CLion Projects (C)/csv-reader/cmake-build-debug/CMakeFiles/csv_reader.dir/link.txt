@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/csv_reader.dir/main.c.o  -o csv_reader 

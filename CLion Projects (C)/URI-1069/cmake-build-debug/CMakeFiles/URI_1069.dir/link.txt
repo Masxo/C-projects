@@ -1,0 +1,3 @@
+C:\Users\maxse\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7319.72\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\URI_1069.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\URI_1069.dir/objects.a @CMakeFiles\URI_1069.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\URI_1069.dir/objects.a -Wl,--no-whole-archive  -o URI_1069.exe -Wl,--out-implib,libURI_1069.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\URI_1069.dir\linklibs.rsp

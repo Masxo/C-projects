@@ -1,0 +1,3 @@
+C:/Users/maxse/CLionProjects/jogo-velha/cmake-build-debug/CMakeFiles/jogo_velha.dir
+C:/Users/maxse/CLionProjects/jogo-velha/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maxse/CLionProjects/jogo-velha/cmake-build-debug/CMakeFiles/rebuild_cache.dir
