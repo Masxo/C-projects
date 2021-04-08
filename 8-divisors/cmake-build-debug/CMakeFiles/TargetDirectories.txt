@@ -1,0 +1,3 @@
+C:/Users/maxse/CLionProjects/8-divisors/cmake-build-debug/CMakeFiles/8_divisors.dir
+C:/Users/maxse/CLionProjects/8-divisors/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maxse/CLionProjects/8-divisors/cmake-build-debug/CMakeFiles/rebuild_cache.dir

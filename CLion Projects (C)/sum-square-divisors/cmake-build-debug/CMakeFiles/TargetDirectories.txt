@@ -1,3 +1,0 @@
-C:/Users/maxse/CLionProjects/sum-square-divisors/cmake-build-debug/CMakeFiles/sum_square_divisors.dir
-C:/Users/maxse/CLionProjects/sum-square-divisors/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/maxse/CLionProjects/sum-square-divisors/cmake-build-debug/CMakeFiles/rebuild_cache.dir

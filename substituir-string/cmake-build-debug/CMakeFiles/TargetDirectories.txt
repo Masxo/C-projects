@@ -1,0 +1,3 @@
+C:/Users/maxse/Projects/CLion Projects (C)/substituir-string/cmake-build-debug/CMakeFiles/substituir_string.dir
+C:/Users/maxse/Projects/CLion Projects (C)/substituir-string/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maxse/Projects/CLion Projects (C)/substituir-string/cmake-build-debug/CMakeFiles/rebuild_cache.dir

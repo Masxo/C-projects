@@ -1,3 +1,0 @@
-C:/Users/maxse/CLionProjects/URI-1069/cmake-build-debug/CMakeFiles/URI_1069.dir
-C:/Users/maxse/CLionProjects/URI-1069/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/maxse/CLionProjects/URI-1069/cmake-build-debug/CMakeFiles/rebuild_cache.dir
