@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/dataStructures.c" "/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/cmake-build-debug/CMakeFiles/Library.dir/dataStructures.c.o"
-  "/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/main.c" "/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/cmake-build-debug/CMakeFiles/Library.dir/main.c.o"
-  "/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/utils.c" "/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/cmake-build-debug/CMakeFiles/Library.dir/utils.c.o"
+  "/mnt/c/Users/maxse/Documents/GitHub/C-projects/Library/dataStructures.c" "/mnt/c/Users/maxse/Documents/GitHub/C-projects/Library/cmake-build-debug/CMakeFiles/Library.dir/dataStructures.c.o"
+  "/mnt/c/Users/maxse/Documents/GitHub/C-projects/Library/main.c" "/mnt/c/Users/maxse/Documents/GitHub/C-projects/Library/cmake-build-debug/CMakeFiles/Library.dir/main.c.o"
+  "/mnt/c/Users/maxse/Documents/GitHub/C-projects/Library/utils.c" "/mnt/c/Users/maxse/Documents/GitHub/C-projects/Library/cmake-build-debug/CMakeFiles/Library.dir/utils.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

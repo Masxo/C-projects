@@ -1,3 +1,3 @@
-/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/cmake-build-debug/CMakeFiles/Library.dir
+/mnt/c/Users/maxse/Documents/GitHub/C-projects/Library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/maxse/Documents/GitHub/C-projects/Library/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/maxse/Documents/GitHub/C-projects/Library/cmake-build-debug/CMakeFiles/Library.dir

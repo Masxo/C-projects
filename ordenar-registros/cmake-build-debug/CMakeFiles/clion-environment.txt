@@ -1,4 +1,4 @@
-ToolSet: Ubuntu 20.04 LTS (local)@C:\Users\maxse\AppData\Local\Microsoft\WindowsApps\ubuntu.exe
+ToolSet: Ubuntu 20.04.2 LTS (local)@C:\Users\maxse\AppData\Local\Microsoft\WindowsApps\ubuntu.exe
 Options: 
 
-Options:-DCMAKE_C_COMPILER=/usr/bin/gcc
+Options:

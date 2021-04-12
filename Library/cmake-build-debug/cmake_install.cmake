@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library
+# Install script for directory: /mnt/c/Users/maxse/Documents/GitHub/C-projects/Library
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/mnt/c/Users/maxse/Documents/GitHub/C-projects/Library/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

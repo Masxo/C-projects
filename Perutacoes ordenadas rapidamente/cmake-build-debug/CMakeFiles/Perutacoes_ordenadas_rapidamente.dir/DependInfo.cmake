@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/main.c" "/mnt/c/Users/maxse/Documents/Projects/CLion Projects (C)/Library/cmake-build-debug/CMakeFiles/sgdb.dir/main.c.o"
+  "/mnt/c/Users/maxse/Documents/GitHub/C-projects/Perutacoes ordenadas rapidamente/main.c" "/mnt/c/Users/maxse/Documents/GitHub/C-projects/Perutacoes ordenadas rapidamente/cmake-build-debug/CMakeFiles/Perutacoes_ordenadas_rapidamente.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
