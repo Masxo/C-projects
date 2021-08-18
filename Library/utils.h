@@ -64,7 +64,7 @@ char *strSP(char *string, const char *param, splitType type);
  * <h3> <b> NÃO UTILIZA STRING INSERIDA </b> </h3>
  * @param string string a ser quebrada
  * @param param parametro a ser procurado
- * @param runs quantidade de vezes executada ou -1 para todas as vezes possíveis
+ * @param runs quantidade de vezes executada ou 0 para todas as vezes possíveis
  * @return retorna o stringBuilder contendo as strings quebradas
  */
 StringBuilder strSPT(char *string, const char *param, int runs);

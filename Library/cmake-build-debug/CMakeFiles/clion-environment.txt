@@ -1,4 +1,3 @@
-ToolSet: Ubuntu 20.04.2 LTS (local)@C:\Users\maxse\AppData\Local\Microsoft\WindowsApps\ubuntu.exe
-Options: 
+ToolSet: Ubuntu 20.04.2 LTS (local)Options: 
 
 Options:

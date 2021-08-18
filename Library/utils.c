@@ -41,10 +41,8 @@ char *strSP(char *string, const char *param, splitType type) {
         if(string[stringIndex] == param[paramIndex]) {
             // verifica se encontrou o parametro inteiro
             if(++paramIndex == paramsize) {
-                // diminui o index da string
-                stringIndex--;
                 // verifica que tipo de operação é para dar os valoes de acordo para min e max
-                int min = (type ? 0 : stringIndex+paramsize), max = (type ? stringIndex : stringsize-stringIndex);
+                int min = (type ? 0 : stringIndex+1), max = (type ? stringIndex-paramsize+1 : stringsize-stringIndex);
                 // aloca espaço na memória para a string
                 char *tempString = calloc(max+1,sizeof(char));
                 // copia a quantidade de caracteres necessários
@@ -54,14 +52,14 @@ char *strSP(char *string, const char *param, splitType type) {
                 // retorna a string encontrada
                 return tempString;
             }
-        // pula pra próxima casa
+            // pula pra próxima casa
         } else {
             paramIndex = 0;
         }
     }
     // retorna nada
     end:
-        return "";
+    return strdup(string);
 }
 //#endregion
 
@@ -76,7 +74,7 @@ char *strSP(char *string, const char *param, splitType type) {
  */
 StringBuilder strSPTInternal(char *string, const char *param,int times,StringBuilder split) {
     // verifica se a string está vazia ou se chegou ao número de execuções
-    if(split.size < (times == -1 ? split.size+1 : times) && strcmp(string,"")) {
+    if(split.size <= times || strcmp(string,split.strings[split.size-1])) {
         // aumenta tamanho do vetor de strings
         split.strings = realloc(split.strings, sizeof(char *) * (++split.size));
         // insere a string necessária na casa certa
@@ -86,7 +84,8 @@ StringBuilder strSPTInternal(char *string, const char *param,int times,StringBui
         // chama recursivamente o splitter
         split = strSPTInternal(string,param,times,split);
         // libera a string
-        free(string);
+        if(strcmp(string,""))
+            free(string);
     }
     // retorna o string builder
     return split;
