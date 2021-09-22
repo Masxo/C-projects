@@ -116,4 +116,22 @@ void freeStringBuilder(StringBuilder s) {
     free(s.strings);
 }
 
+
+//#region PALINDROMO
+int palindromo_internal(char *palavra, int meio, int passo, int tamanho){
+    // verifica se a letra é igual a outra opostamente no vetor.
+    // ex: aba -> a == a, abba -> b == b -> a == a
+    // já que ele pula a primeira iteração de palindromos de tamanho impar,
+    // feito pela paridade do tamanho da string
+    if(palavra[meio+(tamanho - tamanho/2*2)+passo] == palavra[meio-1-passo] && meio-1-passo >= 0)
+        return palindromo_internal(palavra, meio, passo + 1,tamanho);
+    else return meio-1-passo <= 0;
+}
+
+int palindromo(char *palavra) {
+    int meio = strlen(palavra)/2;
+
+    return palindromo_internal(palavra, meio, 0, strlen(palavra));
+}
+//#endregion
 //#endregion
